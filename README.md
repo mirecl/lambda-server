@@ -1,3 +1,6 @@
+[![Crates.io](https://img.shields.io/crates/v/lambda-server?style=flat-square)](https://crates.io/crates/lambda-server)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE-MIT)
+
 ### PROPOSAL API (`lambda_server`)
 
 ```rust
