@@ -1,0 +1,12 @@
+[package]
+name = "lambda-server"
+version = "0.0.1"
+edition = "2021"
+description = "Lambda server"
+keywords = ["lambda","web"]
+repository = "https://github.com/mirecl/lambda-server"
+authors = ["Grazhdankov Andrey <grazhdankov@gmail.com>"]
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
