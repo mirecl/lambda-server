@@ -2,7 +2,7 @@
 name = "lambda-server"
 version = "0.0.1"
 edition = "2021"
-description = "Lambda server"
+description = "Experimental lambda runtime"
 keywords = ["lambda","web"]
 repository = "https://github.com/mirecl/lambda-server"
 authors = ["Grazhdankov Andrey <grazhdankov@gmail.com>"]
